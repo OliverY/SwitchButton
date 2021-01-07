@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu">
+        <item>北京</item>
+        <item>上海</item>
+        <item>杭州</item>
+        <item>上饶</item>
+    </string-array>
+</resources>
